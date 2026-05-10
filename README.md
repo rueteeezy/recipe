@@ -433,3 +433,4 @@ GET /api/v1/recipes/search?vegetarian=true&includeIngredient=garlic&servings=2
 # Author
 
 Recipe Management REST API
+Ruel Sintinta
